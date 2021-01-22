@@ -1,0 +1,38 @@
+nav.Pagination-nav {
+    text-align: center;
+    padding-top: 70px;
+}
+ul.Pagination {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+ul.Pagination li {display: inline;}
+
+ul.Pagination li a {
+    color: white;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+ul.Pagination li a.Pagination-active {
+    background-color: #6c8f6d;
+    color: white;
+    border-radius: 5px;
+}
+
+ul.Pagination li a:hover:not(.Pagination-active) {
+    background-color: #ddd;
+    border-radius: 5px;
+}
+
+@media screen and (max-width: 500px) {
+
+
+	ul.Pagination li a {
+        
+        padding: 8px 6px;
+        
+    }
+}

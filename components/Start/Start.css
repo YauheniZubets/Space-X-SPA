@@ -1,0 +1,25 @@
+main {
+    /* height: 500px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Start {
+    width: 500px;
+    height: 500px;
+    background-image: url('/public/logo.svg');
+}
+.Start-Earth{
+    width: 90%;
+    height: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Start-Earth img {
+    /* position: relative;
+    left: 50%; */
+}
+.Start-video-display-none {
+    display: none;
+}

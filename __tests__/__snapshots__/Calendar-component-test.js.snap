@@ -1,0 +1,133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`работа CalendarComponent 1`] = `
+<div>
+  <section
+    className="main"
+  >
+    <h1
+      className="title"
+    >
+      Все запуски SpaceX
+    </h1>
+  </section>
+  <section
+    className="calendar"
+  >
+    <div
+      className="container"
+    >
+      <div
+        style={
+          Object {
+            "height": "100vh",
+          }
+        }
+      >
+        <div
+          className="loader"
+        >
+          <div
+            className="l_main"
+          >
+            <div
+              className="l_square"
+            >
+              <span />
+              <span />
+              <span />
+            </div>
+            <div
+              className="l_square"
+            >
+              <span />
+              <span />
+              <span />
+            </div>
+            <div
+              className="l_square"
+            >
+              <span />
+              <span />
+              <span />
+            </div>
+            <div
+              className="l_square"
+            >
+              <span />
+              <span />
+              <span />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;
+
+exports[`работа CalendarComponent 2`] = `
+<div>
+  <section
+    className="main"
+  >
+    <h1
+      className="title"
+    >
+      Все запуски SpaceX
+    </h1>
+  </section>
+  <section
+    className="calendar"
+  >
+    <div
+      className="container"
+    >
+      <div
+        style={
+          Object {
+            "height": "100vh",
+          }
+        }
+      >
+        <div
+          className="loader"
+        >
+          <div
+            className="l_main"
+          >
+            <div
+              className="l_square"
+            >
+              <span />
+              <span />
+              <span />
+            </div>
+            <div
+              className="l_square"
+            >
+              <span />
+              <span />
+              <span />
+            </div>
+            <div
+              className="l_square"
+            >
+              <span />
+              <span />
+              <span />
+            </div>
+            <div
+              className="l_square"
+            >
+              <span />
+              <span />
+              <span />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+`;

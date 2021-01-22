@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`работа DetailscalendarComponent 1`] = `
+<div>
+  <div
+    style={
+      Object {
+        "height": "100vh",
+      }
+    }
+  >
+    <div
+      className="loader"
+    >
+      <div
+        className="l_main"
+      >
+        <div
+          className="l_square"
+        >
+          <span />
+          <span />
+          <span />
+        </div>
+        <div
+          className="l_square"
+        >
+          <span />
+          <span />
+          <span />
+        </div>
+        <div
+          className="l_square"
+        >
+          <span />
+          <span />
+          <span />
+        </div>
+        <div
+          className="l_square"
+        >
+          <span />
+          <span />
+          <span />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`работа DetailscalendarComponent 2`] = `
+<div>
+  <div
+    style={
+      Object {
+        "height": "100vh",
+      }
+    }
+  >
+    <div
+      className="loader"
+    >
+      <div
+        className="l_main"
+      >
+        <div
+          className="l_square"
+        >
+          <span />
+          <span />
+          <span />
+        </div>
+        <div
+          className="l_square"
+        >
+          <span />
+          <span />
+          <span />
+        </div>
+        <div
+          className="l_square"
+        >
+          <span />
+          <span />
+          <span />
+        </div>
+        <div
+          className="l_square"
+        >
+          <span />
+          <span />
+          <span />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

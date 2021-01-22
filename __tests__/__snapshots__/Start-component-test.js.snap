@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`работа StartComponent 1`] = `
+<main>
+  <div
+    className="Start"
+  >
+    <div
+      style={
+        Object {
+          "backgroundColor": "black",
+          "height": "inherit",
+          "opacity": 0,
+          "transition": "2.5s linear",
+          "transitionProperty": "opacity",
+        }
+      }
+    />
+  </div>
+</main>
+`;
+
+exports[`работа StartComponent 2`] = `
+<main>
+  <div
+    className="Start"
+  >
+    <div
+      style={
+        Object {
+          "backgroundColor": "black",
+          "height": "inherit",
+          "opacity": 0,
+          "transition": "2.5s linear",
+          "transitionProperty": "opacity",
+        }
+      }
+    />
+  </div>
+</main>
+`;
