@@ -1,6 +1,8 @@
 # __SPA by SpaceX API__ 
 #### based on React v.16.0.0 with Redux
 
+* download packages: npm i;
+
 * to start __dev-prod__: npm run builddev;
 * to start __build-prod__: npm run buildprod;
 
